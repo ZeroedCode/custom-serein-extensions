@@ -1,0 +1,14 @@
+{
+  "api_version": 1,
+  "id": "copy-user-urls",
+  "name": "Copy User URL",
+  "version": "0.1.0",
+  "author": "you",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/you/serein-copy-user-urls",
+  "kind": "plugin",
+  "capabilities": ["context_menus", "clipboard_write"],
+  "actions": [
+    { "id": "copy-user-url", "label": "Copy User URL", "surface": "user" }
+  ]
+}
