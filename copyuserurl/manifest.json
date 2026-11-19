@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "you",
   "license": "MIT OR Apache-2.0",
-  "source": "https://github.com/you/serein-copy-user-urls",
+  "source": "https://github.com/ZeroedCode/custom-serein-extensions/tree/main/copyuserurl",
   "kind": "plugin",
   "capabilities": ["context_menus", "clipboard_write"],
   "actions": [
